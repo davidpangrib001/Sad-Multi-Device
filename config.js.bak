@@ -35,11 +35,11 @@ global.APIKeys = { // APIKey Here
   'https://leyscoders-api.herokuapp.com': 'dappakntlll',
   'https://violetics.pw': 'beta'
 }
-global.wm = '                「 ᴏɴᴇ BOT あ⁩ 」' //Main Watermark
+global.wm = '                「 ꜱᴀᴅ BOT あ⁩ 」' //Main Watermark
 
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘σηє - вσтz˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘օառɛʀ - chαn˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
 
-global.wm3 = '⫹⫺ ᴏɴᴇ 𝗕𝗢𝗧'
+global.wm3 = '⫹⫺ ꜱᴀᴅ 𝗕𝗢𝗧'
 
 global.botdate = `⫹⫺ Date :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}`
 
@@ -48,7 +48,7 @@ global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${moment.tz('Asia/Jakarta').format('HH:m
 global.titlebot = `⫹⫺ Time Sever : ${moment.tz('Asia/Jakarta').format('HH:mm:ss')}\n⫹⫺ Date Server :  ${moment.tz('Asia/Jakarta').format('DD/MM/YY')}
 `
 
-global.author = '                「 ᴏɴᴇ BOT あ⁩ 」'
+global.author = '                「 ꜱᴀᴅ BOT あ⁩ 」'
 
 global.thumbnailUrl = [
   'https://telegra.ph/file/81260a8b9e8cff26d2b48.jpg', 'https://telegra.ph/file/ac4928f0824a2a0492737.jpg',
@@ -73,10 +73,10 @@ global.hbunny = ['https://telegra.ph/file/2b71a8d46d29351479fbc.jpg', 'https://t
 global.hbeach = ['https://telegra.ph/file/14ae0ba2da77d74e6b80c.jpg', 'https://telegra.ph/file/b6905b77e6c7732592a13.jpg','https://telegra.ph/file/9da45a352eb4c40e5d641.jpg', 'https://telegra.ph/file/59e78846ee365975ee6e3.jpg','https://telegra.ph/file/1bf7dee46b83eb4c41d7d.jpg','https://telegra.ph/file/0525a7929f819cb8278f3.jpg']
 
 /*============== NOMOR ==============*/
-global.nomorbot = '6282128475388'
-global.nomorown = '6282160268332'
-global.namebot = 'O͟n͟e͟ B͟o͟t͟z͟'
-global.nameown = 'D͟a͟v͟i͟t͟t͟'
+global.nomorbot = '6281268416245'
+global.nomorown = '17608914335'
+global.namebot = 'Sad-Bot'
+global.nameown = 'Papah-Chan'
 
 /*=========== FAKE SIZE ===========*/
 global.fsizedoc = '99999999999999' // default 10TB
@@ -106,7 +106,7 @@ global.htjava = '⫹⫺' //hiasan Doang :v
 global.hsquere = '⛶', '❏', '⫹⫺'
 
 // Sticker WM
-global.packname = '𝙊𝙣𝙚 𝘽𝙤𝙩𝙯\nBuat Stikermu Disini\nwa.me/6282128475388'
+global.packname = ''
 global.author = ''
 
 global.multiplier = 69 // The higher, The harder levelup

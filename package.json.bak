@@ -1,7 +1,7 @@
 {
-    "name": "One BotzMD",
-    "version": "0.821",
-    "description": "Colour Your Life",
+    "name": "Sad-Bot",
+    "version": "1.0.1",
+    "description": "Customizable WhatsApp Bot",
     "main": "index.js",
     "type": "module",
     "directories": {
